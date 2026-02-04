@@ -1,4 +1,8 @@
-This is a simple job script i made for my prison only rp server. 
-It allows u to do some jobs inside the prison for some loot. 
-i dont know what to whrite here.
-also the script names are in dutch because of my native language. but those are easely changeable.
+This is a script that allows jailed people to do work for some recources. 
+This script was made for use on the QBOX framework and is highly customisable.
+
+dependencies:
+- ox_lib
+- ox_target
+- ox_inventory
+- qbx_core
